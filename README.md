@@ -3,6 +3,9 @@ Part of The Odin Projects Ruby introduction course => https://www.theodinproject
 
 Demonstrating basic understanding in: 
 Converting strings to integers
+</br>
 Shifting and modifying strings
+</br>
 Arrays
+</br>
 Substrings
